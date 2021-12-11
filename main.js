@@ -4,6 +4,7 @@
 
 let body = document.querySelector("body")
 
+
 //.createElement( ) me permite crear un elemento
 let tittle = document.createElement("h1")
 
